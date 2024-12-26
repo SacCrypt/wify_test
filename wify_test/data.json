@@ -1,0 +1,18 @@
+[
+    {
+      "key": "user_name",
+      "label": "Name",
+      "type": "text",
+      "maxLength": "50"
+    },
+    {
+      "key": "mobile_no",
+      "label": "Mobile number",
+      "type": "mobile_number"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "email"
+    }
+  ]
